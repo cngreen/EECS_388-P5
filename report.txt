@@ -1,0 +1,11 @@
+#Problem 1
+Upon attempting to boot the machine, it comes to a screen as if it was a new user, where we are instructed to select the country setting, then the timezone.  Finally, we come to a screen saying "Welcome to Puppy Video Wizard".  This is a bad idea to use this for analysis because it is being set up like a new machine.  
+
+#Problem 2
+He uses Puppy Linux (Distro 431)
+
+#Problem 3
+pup-431
+
+
+
