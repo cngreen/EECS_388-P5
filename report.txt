@@ -14,20 +14,20 @@ There is a thumbnail image of "The Plan" that shows a helpless victim and the at
 passwords.zip
 
 #Problem 6
-Yes, they were researching Nerf Guns online using the firefox search bar.  The suspect also visited Hasbro.com, the manufacturer of Nerf Guns.
+Yes, they were researching Nerf Guns online using the Firefox search bar and Google.  The suspect also visited Hasbro.com, the manufacturer of Nerf Guns.  He also has looked at (and possibly purchased) a "Stuff Blaster" on Amazon; if searched in Amazon, this brings up a handful of Nerf Guns.
 
 #Problem 7
-They deleted the file evil_plan.bmp (/home/nefarious/documents/evil_plan.bmp) (2009-11-30 12:15:48 (EST)).  There is a thumbnail image of "The Plan" that is likely related to this.
+They deleted the file evil_plan.bmp (/home/nefarious/documents/evil_plan.bmp) (2009-11-30 12:15:48 (EST)).  There is a thumbnail image of "The Plan" that still exists on the system.
 
 #Problem 8
-
-
-#Problem 9
 Nov 29 16:14:44 - suspect booted machine (nefarious-laptop)
-
+UNKNOWN DATE/TIME - suspect searched for information related to Nerf Guns
 Nov 30 12:11:50  - suspect booted machine 
 Nov 30 12:15:48  - file evil_plan.bmp deleted
 Nov 30 12:16:53 - suspect turned off machine
+
+#Problem 9
+The suspect has a lot of material on their machine related to password cracking (hydra).  They have also visited sites such as whatsmypass.com.  He also searched for and downloaded a list of common passwords.
 
 
 
