@@ -8,19 +8,27 @@ He uses Puppy Linux (Distro 431)
 nefarious
 
 #Problem 4
+There is a thumbnail image of "The Plan" that shows a helpless victim and the attacker.  In this image, there is no one else physically present.  We believe that according to his plan, there was no physically present accomplice.
 
 #Problem 5
+passwords.zip
 
 #Problem 6
-Yes, they were researching Nerf Guns online using firefox.
+Yes, they were researching Nerf Guns online using the firefox search bar.  The suspect also visited Hasbro.com, the manufacturer of Nerf Guns.
 
 #Problem 7
-They deleted the file evil_plan.bmp (2009-11-30 12:16:46 (EST))
+They deleted the file evil_plan.bmp (/home/nefarious/documents/evil_plan.bmp) (2009-11-30 12:15:48 (EST)).  There is a thumbnail image of "The Plan" that is likely related to this.
 
 #Problem 8
 
+
 #Problem 9
-There is a thumbnail image of "The Plan" that shows a helpless victim and the attacker.
+Nov 29 16:14:44 - suspect booted machine (nefarious-laptop)
+
+Nov 30 12:11:50  - suspect booted machine 
+Nov 30 12:15:48  - file evil_plan.bmp deleted
+Nov 30 12:16:53 - suspect turned off machine
+
 
 
 
