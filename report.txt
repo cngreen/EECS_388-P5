@@ -5,7 +5,22 @@ Upon attempting to boot the machine, it comes to a screen as if it was a new use
 He uses Puppy Linux (Distro 431)
 
 #Problem 3
-pup-431
+nefarious
+
+#Problem 4
+
+#Problem 5
+
+#Problem 6
+Yes, they were researching Nerf Guns online using firefox.
+
+#Problem 7
+They deleted the file evil_plan.bmp (2009-11-30 12:16:46 (EST))
+
+#Problem 8
+
+#Problem 9
+There is a thumbnail image of "The Plan" that shows a helpless victim and the attacker.
 
 
 
