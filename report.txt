@@ -12,6 +12,11 @@ There is a thumbnail image of "The Plan" that shows a helpless victim and the at
 
 #Problem 5
 passwords.zip
+password1.txt - mystery
+password2.txt - love
+password3.txt - secretpassword
+password4.txt - MONKEY
+password5.txt - jjdMn7vM3wU5tA
 
 #Problem 6
 Yes, they were researching Nerf Guns online using the Firefox search bar and Google.  The suspect also visited Hasbro.com, the manufacturer of Nerf Guns.  He also has looked at (and possibly purchased) a "Stuff Blaster" on Amazon; if searched in Amazon, this brings up a handful of Nerf Guns.
@@ -20,6 +25,12 @@ Yes, they were researching Nerf Guns online using the Firefox search bar and Goo
 They deleted the file evil_plan.bmp (/home/nefarious/documents/evil_plan.bmp) (2009-11-30 12:15:48 (EST)).  There is a thumbnail image of "The Plan" that still exists on the system.
 
 #Problem 8
+Nov 24 22:39:17 - suspect used hydra to attempt to root login to 141.212.111.41
+Nov 24 22:39:22 - suspect used hydra to attempt to root login to 141.212.111.41
+Nov 24 23:09:53 - suspect used hydra to attempt to root login to 141.212.111.41
+Nov 24 23:09:57 - suspect used hydra to attempt to root login to 141.212.111.41
+Nov 24 23:37:30 - suspect used hydra to attempt to root login to 141.212.111.41
+Nov 25 09:15:18 - suspect used hydra to attempt to root login to 141.212.111.41
 Nov 29 16:14:44 - suspect booted machine (nefarious-laptop)
 UNKNOWN DATE/TIME - suspect searched for information related to Nerf Guns
 Nov 30 12:11:50  - suspect booted machine 
