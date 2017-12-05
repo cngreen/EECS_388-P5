@@ -1,5 +1,5 @@
 #Problem 1
-Upon attempting to boot the machine, it comes to a screen as if it was a new user, where we are instructed to select the country setting, then the timezone.  Finally, we come to a screen saying "Welcome to Puppy Video Wizard".  This is a bad idea to use this for analysis because it is being set up like a new machine.  
+Upon attempting to boot the machine, it comes to a screen as if it was a new user, where we are instructed to select the country setting, then the timezone.  Finally, we come to a screen saying "Welcome to Puppy Video Wizard".  This is a bad idea to use this for analysis because it is being set up like a new machine.  If we use it like a new computer, we will lose all the potential evidence.
 
 #Problem 2
 He uses Puppy Linux (Distro 431)
@@ -27,7 +27,7 @@ Nov 30 12:15:48  - file evil_plan.bmp deleted
 Nov 30 12:16:53 - suspect turned off machine
 
 #Problem 9
-The suspect has a lot of material on their machine related to password cracking (hydra).  They have also visited sites such as whatsmypass.com.  He also searched for and downloaded a list of common passwords.
+The suspect has a lot of material on their machine related to password cracking (hydra).  They have also visited sites such as whatsmypass.com.  He also searched for and downloaded a list of common passwords.  It seems like the suspect had malicious intent and was trying to access someone's passwords.  Upon reviewing the auth.log, we found that he attempted to use hydra to get the password to 141.212.111.41.
 
 
 
