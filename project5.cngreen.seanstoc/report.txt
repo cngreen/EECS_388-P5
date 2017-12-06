@@ -1,0 +1,55 @@
+#Problem 1
+Upon attempting to boot the machine, it comes to a screen as if it was a new user, where we are instructed to select the country setting, then the timezone.  Finally, we come to a screen saying "Welcome to Puppy Video Wizard".  This is a bad idea to use this for analysis because it is being set up like a new machine.  If we use it like a new computer, we will lose all the potential evidence.
+
+#Problem 2
+He uses Puppy Linux (Distro 431)
+
+#Problem 3
+nefarious
+
+#Problem 4
+There is a thumbnail image of "The Plan" that shows a helpless victim and the attacker.  In this image, there is no one else physically present.  We believe that according to his plan, there was no physically present accomplice.
+
+#Problem 5
+passwords.zip
+password1.txt - mystery
+password2.txt - love
+password3.txt - secretpassword
+password4.txt - MONKEY
+password5.txt - jjdMn7vM3wU5tA
+
+#Problem 6
+Yes, they were researching Nerf Guns online using the Firefox search bar and Google.  The suspect also visited Hasbro.com, the manufacturer of Nerf Guns.  He also has looked at (and possibly purchased) a "Stuff Blaster Motorized" on Amazon; if searched in Amazon, this brings up a handful of Nerf Guns.
+
+#Problem 7
+They deleted the file evil_plan.bmp (/home/nefarious/documents/evil_plan.bmp) (2009-11-30 12:15:48 (EST)).  There is a thumbnail image of "The Plan" that still exists on the system.
+
+#Problem 8
+Nov 24 22:39:17 - suspect attempted to root login to 141.212.111.41
+Nov 24 22:39:22 - suspect attempted to root login to 141.212.111.41
+Nov 24 23:09:53 - suspect used hydra to attempt to root login to 141.212.111.41
+Nov 24 23:09:57 - suspect used hydra to attempt to root login to 141.212.111.41
+Nov 24 23:37:30 - suspect used hydra to attempt to root login to 141.212.111.41
+Nov 25 09:15:18 - suspect used hydra to attempt to root login to 141.212.111.41
+UNKNOWN DATE/TIME - suspect modified index.html on 141.212.111.41
+UNKNOWN DATE/TIME - suspect searched for information related to Nerf Guns
+Nov 30 12:11:50  - suspect booted machine 
+Nov 30 12:15:48  - file evil_plan.bmp deleted
+Nov 30 12:16:53 - suspect turned off machine
+
+#Problem 9
+The suspect has a lot of material on their machine related to password cracking (hydra).  They have also visited sites such as whatsmypass.com.  He also searched for and downloaded a list of common passwords.  It seems like the suspect had malicious intent and was trying to access someone's passwords.  Upon reviewing the auth.log, we found that he attempted to use hydra to get the password to 141.212.111.41.
+
+#Problem 10
+Academic Researcher and his username is academic.
+
+#Problem 11
+Apache is running on port 80.  It appears this server is being used for a webpage.
+
+#Problem 12
+It was compromised.  The suspect used hydra to gain access to the IP.  Once on the IP, we found that there were many failed root access attempts around the same time at which the suspect used hydra to attempt to get root access to this IP.  This occurred at Nov 24 23:09:53, Nov 24 23:09:57, Nov 24 23:37:30, and Nov 25 09:15:18.
+
+#Problem 13
+The suspect modified the index.html file under /var/www.  They changed the site to read: "Dr. Academic Researcher is a loser who knows nothing about computer security."
+
+
